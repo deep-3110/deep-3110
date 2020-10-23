@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=deep-3110&color=blue)
 
-![Deep Shah's stats](https://github-readme-stats.vercel.app/api?username=deep-3110&show_icons=true&theme=blue&count_private=true&hide=stars&show_icons=true)
+![Deep Shah's stats](https://github-readme-stats.vercel.app/api?username=deep-3110&show_icons=true&theme=lightgrey&count_private=true&hide=stars&show_icons=true)
 <!--
 **deep-3110/deep-3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
