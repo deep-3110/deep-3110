@@ -1,11 +1,10 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=deep-3110&color=blue)
 
-![](https://komarev.com/ghpvc/?username=deep-3110)
-![Deep's github stats](https://github-readme-stats.vercel.app/api?username=deep-3110&show_icons=true&theme=graywhite&count_private=true&hide=stars&show_icons=true)
-
+![Samkit's github stats](https://github-readme-stats.vercel.app/api?username=deep-3110&show_icons=true&theme=graywhite&count_private=true&hide=stars&show_icons=true)
 <!--
 **deep-3110/deep-3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://komarev.com/ghpvc/?username=deep-3110&color=green
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-3110)
 Here are some ideas to get you started:
 
