@@ -1,5 +1,4 @@
 ### Hey There, I'm Deep Shah 👋
-
 ![](https://komarev.com/ghpvc/?username=deep-3110&color=blue)
 ## I'm an undergraduate Computer Engineering Student!
 - 🌱 I’m currently learning Machine Learning and Data Science
